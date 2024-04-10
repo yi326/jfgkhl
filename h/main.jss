@@ -1,0 +1,1 @@
+const dias_falta = document.querySelectorAll(".dias_restates");
