@@ -1,0 +1,22 @@
+:root{
+    --cor-de-fundo:#1e1e1e;
+    --verde:#6fff57;
+    --branco:#ffffff;
+}
+body{
+    background-color:#1e1e1e;
+    color: var(--branco);
+    text-align:center;
+}
+h1{
+    margin: 30px 0;
+    font-size: 60px;
+}
+h1 span{
+    color: rgb(237, 174, 15)
+}
+.dias_restantes{
+    color: var(--verde);
+    font-size: 50px;
+    text-align: center;
+}
